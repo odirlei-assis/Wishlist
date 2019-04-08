@@ -1,0 +1,14 @@
+C:\Users\32184284831\Documents\Dev 2 semestre\Wishlist\Senai.Wishlist.WebApi\Senai.Wishlist.WebApi\bin\Debug\netcoreapp2.1\Senai.Wishlist.WebApi.deps.json
+C:\Users\32184284831\Documents\Dev 2 semestre\Wishlist\Senai.Wishlist.WebApi\Senai.Wishlist.WebApi\bin\Debug\netcoreapp2.1\Senai.Wishlist.WebApi.runtimeconfig.json
+C:\Users\32184284831\Documents\Dev 2 semestre\Wishlist\Senai.Wishlist.WebApi\Senai.Wishlist.WebApi\bin\Debug\netcoreapp2.1\Senai.Wishlist.WebApi.runtimeconfig.dev.json
+C:\Users\32184284831\Documents\Dev 2 semestre\Wishlist\Senai.Wishlist.WebApi\Senai.Wishlist.WebApi\bin\Debug\netcoreapp2.1\Senai.Wishlist.WebApi.dll
+C:\Users\32184284831\Documents\Dev 2 semestre\Wishlist\Senai.Wishlist.WebApi\Senai.Wishlist.WebApi\obj\Debug\netcoreapp2.1\Senai.Wishlist.WebApi.csprojAssemblyReference.cache
+C:\Users\32184284831\Documents\Dev 2 semestre\Wishlist\Senai.Wishlist.WebApi\Senai.Wishlist.WebApi\obj\Debug\netcoreapp2.1\Senai.Wishlist.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\32184284831\Documents\Dev 2 semestre\Wishlist\Senai.Wishlist.WebApi\Senai.Wishlist.WebApi\obj\Debug\netcoreapp2.1\Senai.Wishlist.WebApi.RazorAssemblyInfo.cache
+C:\Users\32184284831\Documents\Dev 2 semestre\Wishlist\Senai.Wishlist.WebApi\Senai.Wishlist.WebApi\obj\Debug\netcoreapp2.1\Senai.Wishlist.WebApi.RazorAssemblyInfo.cs
+C:\Users\32184284831\Documents\Dev 2 semestre\Wishlist\Senai.Wishlist.WebApi\Senai.Wishlist.WebApi\obj\Debug\netcoreapp2.1\Senai.Wishlist.WebApi.AssemblyInfoInputs.cache
+C:\Users\32184284831\Documents\Dev 2 semestre\Wishlist\Senai.Wishlist.WebApi\Senai.Wishlist.WebApi\obj\Debug\netcoreapp2.1\Senai.Wishlist.WebApi.AssemblyInfo.cs
+C:\Users\32184284831\Documents\Dev 2 semestre\Wishlist\Senai.Wishlist.WebApi\Senai.Wishlist.WebApi\obj\Debug\netcoreapp2.1\Senai.Wishlist.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\32184284831\Documents\Dev 2 semestre\Wishlist\Senai.Wishlist.WebApi\Senai.Wishlist.WebApi\bin\Debug\netcoreapp2.1\Senai.Wishlist.WebApi.pdb
+C:\Users\32184284831\Documents\Dev 2 semestre\Wishlist\Senai.Wishlist.WebApi\Senai.Wishlist.WebApi\obj\Debug\netcoreapp2.1\Senai.Wishlist.WebApi.dll
+C:\Users\32184284831\Documents\Dev 2 semestre\Wishlist\Senai.Wishlist.WebApi\Senai.Wishlist.WebApi\obj\Debug\netcoreapp2.1\Senai.Wishlist.WebApi.pdb
