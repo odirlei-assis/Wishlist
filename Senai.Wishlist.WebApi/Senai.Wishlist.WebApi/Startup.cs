@@ -51,6 +51,16 @@ namespace Senai.Wishlist.WebApi
                     ValidAudience = "Wishlist.WebApi"
                 };
             });
+
+            //Em breve
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy",
+                    builder => builder.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader()
+                        .AllowCredentials());
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -69,6 +79,9 @@ namespace Senai.Wishlist.WebApi
             //{
             //    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Wishlist API");
             //});
+
+            //Em breve
+            app.UseCors(builder => builder.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
 
             app.UseMvc();
         }

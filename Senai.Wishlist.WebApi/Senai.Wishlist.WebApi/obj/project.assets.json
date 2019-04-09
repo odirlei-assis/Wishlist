@@ -12535,23 +12535,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\32184284831\\.nuget\\packages\\": {},
+    "C:\\Users\\40270522859\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\32184284831\\Documents\\Dev 2 semestre\\Wishlist\\Senai.Wishlist.WebApi\\Senai.Wishlist.WebApi\\Senai.Wishlist.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\40270522859\\Desktop\\Wishlist\\Senai.Wishlist.WebApi\\Senai.Wishlist.WebApi\\Senai.Wishlist.WebApi.csproj",
       "projectName": "Senai.Wishlist.WebApi",
-      "projectPath": "C:\\Users\\32184284831\\Documents\\Dev 2 semestre\\Wishlist\\Senai.Wishlist.WebApi\\Senai.Wishlist.WebApi\\Senai.Wishlist.WebApi.csproj",
-      "packagesPath": "C:\\Users\\32184284831\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\32184284831\\Documents\\Dev 2 semestre\\Wishlist\\Senai.Wishlist.WebApi\\Senai.Wishlist.WebApi\\obj\\",
+      "projectPath": "C:\\Users\\40270522859\\Desktop\\Wishlist\\Senai.Wishlist.WebApi\\Senai.Wishlist.WebApi\\Senai.Wishlist.WebApi.csproj",
+      "packagesPath": "C:\\Users\\40270522859\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\40270522859\\Desktop\\Wishlist\\Senai.Wishlist.WebApi\\Senai.Wishlist.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\32184284831\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\40270522859\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
